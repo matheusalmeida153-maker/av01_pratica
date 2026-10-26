@@ -1,0 +1,5 @@
+PGPORT=5432
+PGHOST="pgadmin"
+PGDATABASE="av01_pratica"
+PGUSER=
+PGPASSWORD= "senai"
